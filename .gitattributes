@@ -1,0 +1,1 @@
+obs-linuxbrowser/bin/64bit/libcef.so filter=lfs diff=lfs merge=lfs -text
